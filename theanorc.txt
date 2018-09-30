@@ -1,0 +1,4 @@
+[global]
+device=cpu
+floatX=float32
+exception_verbosity=high
