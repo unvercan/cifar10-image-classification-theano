@@ -1,2 +1,2 @@
-# CIFAR-10 Image Classification
-- An implementation of the CIFAR-10 dataset on CNN image classification.
+# cifar10-image-classification-theano
+An implementation of Image Classification on CIFAR-10 dataset using Theano.
